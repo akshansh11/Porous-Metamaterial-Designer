@@ -4,4 +4,4 @@ networkx
 pandas 
 numpy 
 streamlit-plotly-events 
-pillow
+Pillow
